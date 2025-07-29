@@ -1,3 +1,26 @@
+## rmw_dds_common (jazzy) - 3.1.0-3
+
+The packages in the `rmw_dds_common` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy --override-release-repository-push-url git@github.com:tgenovese/rmw_dds_common-release.git rmw_dds_common` on `Tue, 29 Jul 2025 13:17:13 -0000`
+
+The `rmw_dds_common` package was released.
+
+Version of package(s) in repository `rmw_dds_common`:
+
+- upstream repository: https://github.com/ros2/rmw_dds_common.git
+- release repository: https://github.com/tgenovese/rmw_dds_common-release.git
+- rosdistro version: `3.1.0-2`
+- old version: `3.1.0-2`
+- new version: `3.1.0-3`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## rmw_dds_common (rolling) - 4.0.0-1
 
 The packages in the `rmw_dds_common` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling rmw_dds_common` on `Tue, 01 Jul 2025 15:30:53 -0000`
